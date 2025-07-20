@@ -48,9 +48,6 @@ PyCryptodome (for AES encryption)
 HTML & CSS (basic frontend)
 
 📁 Folder Overview
-pgsql
-Copy
-Edit
 FUTURE_CS_3/
 ├── app.py              # Main Flask app
 ├── encryption.py       # AES encryption & decryption logic
